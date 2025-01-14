@@ -41,6 +41,62 @@
         {
             "name": "End year",
             "date": "2024-12-30T17:00:00.000Z"
+        },
+        {
+            "name" : "New year",
+            "date" : "2024-12-31T17:00:00.000Z"
+        },
+        {
+            "name" : "Makha Bucha",
+            "date" : "2025-02-11T17:00:00.000Z"
+        },
+        {
+            "name" : "Songkran",
+            "date" : "2025-04-13T17:00:00.000Z"
+        },
+        {
+            "name" : "Songkran",
+            "date" : "2025-04-14T17:00:00.000Z"
+        },
+        {
+            "name" : "Labor",
+            "date" : "2025-04-30T17:00:00.000Z"
+        },
+        {
+            "name" : "10th queen birth",
+            "date" : "2025-06-02T17:00:00.000Z"
+        },
+        {
+            "name" : "Asarnha Bucha",
+            "date" : "2025-07-09T17:00:00.000Z"
+        },
+        {
+            "name" : "10th king birth",
+            "date" : "2025-07-27T17:00:00.000Z"
+        },
+        {
+            "name" : "9th queen birth",
+            "date" : "2025-08-11T17:00:00.000Z"
+        },
+        {
+            "name" : "9th Navamindra",
+            "date" : "2025-10-12T17:00:00.000Z"
+        },
+        {
+            "name" : "Chulalongkorn",
+            "date" : "2025-10-22T17:00:00.000Z"
+        },
+        {
+            "name" : "9th king birth",
+            "date" : "2025-12-04T17:00:00.000Z"
+        },
+        {
+            "name" : "constitution",
+            "date" : "2025-12-09T17:00:00.000Z"
+        },
+        {
+            "name" : "End year",
+            "date" : "2025-12-30T17:00:00.000Z"
         }
     ]    
 }
